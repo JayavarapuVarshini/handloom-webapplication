@@ -38,6 +38,43 @@
 
 ---
 
+## 📁 Project Structure
+handloomhub/
+├── public/
+│ ├── index.html
+│ └── favicon.ico
+├── src/
+│ ├── components/
+│ │ ├── AdminDashboard.jsx
+│ │ ├── AppRoutes.jsx
+│ │ ├── ArtisanDashboard.jsx
+│ │ ├── BuyerDashboard.jsx
+│ │ ├── Cart.jsx
+│ │ ├── Checkout.jsx
+│ │ ├── Header.jsx
+│ │ ├── Home.jsx
+│ │ ├── Login.jsx
+│ │ ├── MarketingDashboard.jsx
+│ │ ├── ProductDetail.jsx
+│ │ ├── ProductListing.jsx
+│ │ ├── Register.jsx
+│ │ └── Wishlist.jsx
+│ ├── context/
+│ │ ├── AuthContext.jsx
+│ │ ├── CartContext.jsx
+│ │ └── ProtectedRoute.jsx
+│ ├── data/
+│ │ └── Products.jsx
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
+---
+
  🚀 Quick Start
 
  Prerequisites
