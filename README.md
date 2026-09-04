@@ -40,6 +40,9 @@
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 handloomhub/
 ├── public/
 │   ├── index.html
@@ -78,8 +81,7 @@ handloomhub/
 ├── package.json
 ├── package-lock.json
 └── README.md
----
-
+```
 ---
 
 👤 Demo Credentials
