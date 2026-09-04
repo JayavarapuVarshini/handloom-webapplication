@@ -127,10 +127,19 @@ npm install react-router-dom
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom
 
 ---
+## 🚀 How to Run
 
-✈️Start the Development Server
-  npm start
----
-Open Your Browser
- http://localhost:3000
+### 1. Start the Development Server
+
+```bash
+npm install
+npm start
+```
+
+### 2. Open Your Browser
+
+Visit:
+
+**http://localhost:3000**
+
 
