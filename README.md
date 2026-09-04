@@ -83,11 +83,14 @@ handloomhub/
 ---
 
 👤 Demo Credentials
-Role	                 Email                	Password
-🛒 Buyer        	buyer@example.com	         password
-🎨 Artisan	      artisan@example.com	       password
-📊 Marketing    	marketing@example.com	     password
-🔒 Admin	        admin@example.com	         admin123
+
+| Role         | Email                                                 | Password   |
+| ------------ | ----------------------------------------------------- | ---------- |
+| 🛒 Buyer     | [buyer@example.com](mailto:buyer@example.com)         | `password` |
+| 🎨 Artisan   | [artisan@example.com](mailto:artisan@example.com)     | `password` |
+| 📊 Marketing | [marketing@example.com](mailto:marketing@example.com) | `password` |
+| 🔒 Admin     | `admin@example.com`                                   | `admin123` |
+
 ---
 
  🚀 Quick Start
