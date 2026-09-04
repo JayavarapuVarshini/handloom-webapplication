@@ -1,16 +1,53 @@
-# React + Vite
+🧵 HandloomHub - E-Commerce Platform for Artisans
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Connecting Artisans with the World** - A modern e-commerce platform that bridges the gap between skilled artisans and global buyers.
 
-Currently, two official plugins are available:
+---
+🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔐 Multi-Role Authentication
+- **Buyer**: Browse products, add to cart, wishlist, and checkout
+- **Artisan**: Manage products, track sales, and view orders
+- **Marketing**: Run campaigns, analyze performance metrics
+- **Admin**: Full system administration and user management
 
-## React Compiler
+🛍️ Buyer Features
+- Product browsing with search functionality
+- Shopping cart with quantity management
+- Wishlist for saving favorite items
+- Secure checkout process
+- Order confirmation and tracking
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Artisan Features
+- Product inventory management
+- Sales tracking dashboard
+- Order management system
+- Quick stats and analytics
 
-## Expanding the ESLint configuration
+ 📊 Marketing Features
+- Campaign management
+- Performance analytics
+- Customer acquisition metrics
+- Conversion tracking
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ⚙️ Admin Features
+- User management dashboard
+- System monitoring and alerts
+- Role-based access control
+- System configuration settings
+
+---
+
+ 🚀 Quick Start
+
+ Prerequisites
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- Git
+
+ Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/JayavarapuVarshini/handloomhub.git
+cd handloomhub
