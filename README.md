@@ -39,6 +39,7 @@
 ---
 
 ## 📁 Project Structure
+
 handloomhub/
 ├── public/
 │ ├── index.html
@@ -75,6 +76,16 @@ handloomhub/
 └── README.md
 ---
 
+---
+
+👤 Demo Credentials
+Role	                 Email                	Password
+🛒 Buyer        	buyer@example.com	         password
+🎨 Artisan	      artisan@example.com	       password
+📊 Marketing    	marketing@example.com	     password
+🔒 Admin	        admin@example.com	         admin123
+---
+
  🚀 Quick Start
 
  Prerequisites
@@ -82,9 +93,35 @@ handloomhub/
 - npm (v6 or higher)
 - Git
 
- Installation
+ Step 1: Create React App
 
-1. **Clone the repository**
 ```bash
+# Create the React app
+npx create-react-app handloomhub
+
+# Navigate into the project folder
+cd handloomhub
 git clone https://github.com/JayavarapuVarshini/handloomhub.git
 cd handloomhub
+---
+
+# Install Material-UI and its dependencies
+npm install @mui/material @emotion/react @emotion/styled
+
+# Install Material-UI Icons
+npm install @mui/icons-material
+
+# Install React Router for navigation
+npm install react-router-dom
+
+# Install all dependencies at once (optional)
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material react-router-dom
+
+---
+
+✈️Start the Development Server
+  npm start
+---
+Open Your Browser
+ http://localhost:3000
+
